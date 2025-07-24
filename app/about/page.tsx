@@ -33,7 +33,7 @@ export default function page() {
 
         <div className="space-y-6 text-lg leading-relaxed text-textMuted">
           <p>
-            I'm a passionate software developer with a love for building clean,
+            I&apos;m a passionate software developer with a love for building clean,
             performant, and user-centric applications. I started my journey in
             web development and quickly grew fascinated with how code can bring
             ideas to life.

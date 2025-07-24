@@ -34,7 +34,7 @@ export default function page() {
       <div>
         <p className="font-bold text-4xl">Objectives:</p>
         <p className="font-medium text-2xl w-[70%] text-justify break-before-auto text-textMuted">
-          I’m a software developer passionate about AI and Web3, with a strong
+          I&apos;m a software developer passionate about AI and Web3, with a strong
           interest in creating innovative, real-world solutions that combine
           intelligent systems with the power of decentralized technologies to
           shape the future of digital experiences.
