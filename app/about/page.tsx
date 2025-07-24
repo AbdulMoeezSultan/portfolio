@@ -33,7 +33,7 @@ export default function page() {
 
         <div className="space-y-6 text-lg leading-relaxed text-textMuted">
           <p>
-            I&apos;m a passionate software developer with a love for building clean,
+            Im a passionate software developer with a love for building clean,
             performant, and user-centric applications. I started my journey in
             web development and quickly grew fascinated with how code can bring
             ideas to life.
@@ -42,8 +42,8 @@ export default function page() {
             Currently, I work with technologies like{" "}
             <span className="font-semibold text-textDark">React</span>,{" "}
             <span className="font-semibold text-textDark">Node.js</span>, and{" "}
-            <span className="font-semibold text-textDark">MongoDB</span>. I'm
-            deeply interested in blockchain, and I'm learning{" "}
+            <span className="font-semibold text-textDark">MongoDB</span>. Im
+            deeply interested in blockchain, and Im learning{" "}
             <span className="font-semibold text-textDark">Solidity</span> to
             create smart contracts. My goal is to contribute to meaningful
             open-source projects and become a blockchain specialist.

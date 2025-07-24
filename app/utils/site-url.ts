@@ -1,2 +1,2 @@
 // utils/siteUrl.ts
-export const siteUrl = process.env.publicSite || 'http://localhost:3000';
+export const siteUrl = process.env.DEPLOY_SITE || 'http://localhost:3000';
