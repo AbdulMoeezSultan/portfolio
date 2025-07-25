@@ -12,14 +12,6 @@ export const generateMetadata = async (): Promise<Metadata> => {
       description: "contact page it is",
       url: fullUrl,
       siteName: "Moeez Portfolio",
-      images: [
-        {
-          url: `${siteUrl}/og/contact.png`,
-          width: 1200,
-          height: 630,
-          alt: "Moeez Portfolio contact page",
-        },
-      ],
       type: "website",
     },
   };
