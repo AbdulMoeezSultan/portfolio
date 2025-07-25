@@ -14,9 +14,9 @@ export default function Navbar() {
       />
       <div className="flex flex-col w-full">
         <NavLinks />
-        <p className="ml-5 mt-5 text-5xl">Hi, I am Abdul Moeez Sultan!</p>
+        <h1 className="ml-5 mt-5 text-5xl">Hi, I am Abdul Moeez Sultan!</h1>
         <p className={`ml-80 mt-4 underline text-textMuted ${pompiere.className} text-2xl`}>
-          A Software Developer
+          A Website Developer
         </p>
       </div>
     </nav>
