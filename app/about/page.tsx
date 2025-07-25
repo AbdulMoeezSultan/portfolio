@@ -1,19 +1,9 @@
-import { siteUrl } from "../utils/site-url";
-import type { Metadata } from "next";
+import { Metadata } from "next";
 
 export const generateMetadata = async (): Promise<Metadata> => {
-  const fullUrl = `${siteUrl}/`;
-
   return {
     title: "Moeez | About",
-    description: "about page it is",
-    openGraph: {
-      title: "Moeez | About",
-      description: "about page it is",
-      url: fullUrl,
-      siteName: "Moeez Portfolio",
-      type: "website",
-    },
+    description: "about page",
   };
 };
 

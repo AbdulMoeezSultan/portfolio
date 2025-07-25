@@ -1,22 +1,11 @@
-import Projects from "./ui/projects";
-import { siteUrl } from "./utils/site-url";
 import type { Metadata } from "next";
+import Projects from "./ui/projects";
 
 export const generateMetadata = async (): Promise<Metadata> => {
-  const fullUrl = `${siteUrl}/`;
-
   return {
     title: "Moeez | Home",
     description:
       "Software developer passionate about AI and Web3, building intelligent, decentralized digital experiences.",
-    openGraph: {
-      title: "Moeez | Home",
-      description:
-        "Software developer passionate about AI and Web3, building intelligent, decentralized digital experiences.",
-      url: fullUrl,
-      siteName: "Moeez Portfolio",
-      type: "website",
-    }
   };
 };
 
